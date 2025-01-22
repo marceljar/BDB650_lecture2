@@ -2,3 +2,4 @@
 
 Contributors:
 - Marcel Jar
+- John Doe
